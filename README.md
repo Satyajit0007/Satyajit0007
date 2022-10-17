@@ -39,7 +39,7 @@
 
 
 # 📊 GitHub Stats:
-![logo](<img align = "right" alt="gif" width ="250" height="250" src ="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">)
+![logo]("https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif)
 ![](https://github-readme-stats.vercel.app/api?username=Satyajit0007&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Satyajit0007&theme=radical&hide_border=false)<br/>
