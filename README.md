@@ -33,9 +33,9 @@
 
 
 <img align = "right" alt="gif" width ="250" height="250" src ="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=&show_icons=true&locale=en&layout=compact" alt="satyajit0007" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Satyajit0007&show_icons=true&locale=en&layout=compact" alt="satyajit0007" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyajit0007&" alt="satyajit0007" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=&" alt="satyajit0007" /></p>
 
 
 # 📊 GitHub Stats:
