@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satyajit Ray</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
-<img align="right" width="400" src ="https://i.gifer.com/7jd9.gif">
+<img align="right"  alt = "coding" width="400" src ="https://i.gifer.com/7jd9.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyajit0007&label=Profile%20views&color=0e75b6&style=flat" alt="satyajit0007" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://satyajit0007.github.io/](https://satyajit0007.github.io/)
