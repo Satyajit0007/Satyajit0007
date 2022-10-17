@@ -1,4 +1,4 @@
-![logo](https://www.hackhackathon.com/ImagesGallery/AdminImageGallery/imagePath/2021-04-21-04-19-programming-language.png)
+![logo](https://miro.medium.com/max/1400/1*z09s6aSERC0ZuZ4jCYWVuA.png)
 <h1 align="center">Hi 👋, I'm Satyajit Ray</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
