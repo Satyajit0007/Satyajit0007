@@ -16,7 +16,7 @@
 
 ⚡ Want to Know More About Experiance: [Check out My Resume](https://drive.google.com/file/d/1X-ZLN7K21MtPVklDETUuijLGbBD10IH-/view?usp=share_link)<br>
 
-Want to know more about me? [Check out My Portfolio](https://spp96.github.io/)
+⚡Want to know more about me? [Check out My Portfolio](https://satyajit0007.github.io/)
 
 
 
