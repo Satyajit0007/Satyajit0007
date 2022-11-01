@@ -10,7 +10,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyajit0007&label=Profile%20views&color=0e75b6&style=flat" alt="satyajit0007" /> </p>
 💫 About Me: <br>
 
-👯 I’m looking for an opportunity to utilize and maximize my skills<br>🌱 I’m a Full Stack Web Development<br>👯 Interested in Web technologies
+👯 I’m looking for an opportunity to utilize and maximize my skills<br>🌱 I’m a Full Stack Web Development<br>👯 Interested in Web technologies<br>
+
+📫 How to reach me: roysatyajit772912@gmail.com<br>
+
+⚡ Want to Know More About Experiance: [Check out My Resume](https://drive.google.com/file/d/1X-ZLN7K21MtPVklDETUuijLGbBD10IH-/view?usp=share_link)<br>
+
+Want to know more about me? [Check out My Portfolio](https://spp96.github.io/)
+
 
 
 ## 🌐 Socials:
